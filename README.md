@@ -4,10 +4,10 @@ I'm a Laravel & Odoo developer based in Dhaka, working at Crystal Technology Ban
 
 ## 🛠️ Languages & Tools
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-EE0022?style=for-the-badge&logo=odoo&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ## 🔥 My Projects
 

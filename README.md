@@ -1,41 +1,62 @@
-# Hi there, I'm Sabikun Nahar Bristy 👋
+# Hi there, I'm **Sabikun Nahar Bristy** 👋  
+### Software Engineer | Odoo Developer | Laravel Specialist 
 
-I'm a Laravel & Odoo developer based in Dhaka, working at Crystal Technology Bangladesh Ltd.
+I'm an **Odoo & Laravel Developer** based in Dhaka, currently working at **Crystal Technology Bangladesh Ltd.** I specialize in **custom Odoo module development**, **API integrations**, and building **scalable web applications** using **Laravel**. I love solving complex problems and delivering high-quality, maintainable code.
 
-## 🛠️ Languages & Tools
+---
 
-![Odoo](https://img.shields.io/badge/Odoo-EE0022?style=for-the-badge&logo=odoo&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+## 🛠️ **Languages & Tools**  
 
-## 🔥 My Projects
+![Odoo](https://img.shields.io/badge/Odoo-EE0022?style=for-the-badge&logo=odoo&logoColor=white)  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
-- [Project A](https://github.com/Sabikunnahar/project-a): A brief description of Project A.
-- [Project B](https://github.com/Sabikunnahar/project-b): A brief description of Project B.
+---
 
-## 📊 GitHub Stats
+## 🔧 **What I Do**  
 
-![Sabikunnahar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sabikunnahar&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabikunnahar&layout=compact&theme=radical)
+- 🔧 **Odoo Customization**: Developing custom Odoo modules, creating advanced reports using **Qweb**, and integrating external APIs to enhance functionality.  
+- 💻 **Web Application Development**: Building robust back-end systems using **Laravel** and developing scalable **RESTful APIs**.  
+- 🔗 **API Integration**: Connecting Odoo and Laravel applications with third-party services for seamless data flow.  
+- 📊 **Reports & Dashboards**: Generating custom PDF/Excel reports to meet business requirements.  
 
-## 🌐 Connect with Me
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sabikun-nahar-bristy)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+## 🔥 **Highlighted Projects**  
 
+### 🛠️ **Odoo Projects**  
+- **Data Collector** – A custom Odoo module for collecting and syncing data between different departments.  
+- **Lab Connect** – An integration tool to connect Odoo with external lab systems for seamless data exchange.  
 
-<!--
-**Sabikunnahar/Sabikunnahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 **Laravel Projects**  
+- **Office Management System** – A complete office management solution built with **Laravel**, handling tasks like employee management, reporting, and user authentication.  
+- **Inventory Management System** – A scalable inventory management application integrating **RESTful APIs** for smooth operations.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 **GitHub Stats**  
+
+![Sabikunnahar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sabikunnahar&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabikunnahar&layout=compact&theme=radical)  
+
+---
+
+## 🌐 **Connect with Me**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sabikun-nahar-bristy)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sabikunnahar)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabikunnaharbristy16@gmail.com)  
+
+---
+
+### 📝 **Feel free to explore my repositories and reach out if you'd like to collaborate on exciting projects!**  
+
+---
+
+## ⚡ **Fun Fact**  
+I love working on **challenging problems** and learning **new technologies** to improve my skills and deliver the best solutions.

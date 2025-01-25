@@ -54,7 +54,7 @@ I'm an **Odoo & Laravel Developer** based in Dhaka, currently working at **Cryst
 
 ## 🌐 **Connect with Me**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sabikun-nahar-bristy)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sabikun-nahar-bristy-4579701a1/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sabikunnahar)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabikunnaharbristy16@gmail.com)  
 

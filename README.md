@@ -46,7 +46,6 @@ I'm a **Software Engineer** based in Dhaka, currently working at **Crystal Techn
 ## 📊 **GitHub Stats**  
 
 ![Sabikunnahar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sabikunnahar&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabikunnahar&layout=compact&theme=radical&hide=css,html)  
 
 ---
 
